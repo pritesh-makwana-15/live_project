@@ -10,7 +10,7 @@
 
 body {
     background-color: #FFFFFF;
-    overflow-x: hidden;
+    /*overflow-x: hidden; */
 }
 
 .wrapper {
